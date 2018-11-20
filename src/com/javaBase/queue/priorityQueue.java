@@ -1,4 +1,4 @@
-package com.queue;
+package com.javaBase.queue;
 
 import java.time.LocalDate;
 import java.util.*;

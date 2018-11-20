@@ -1,4 +1,4 @@
-package com.fanshe;
+package com.javaBase.fanshe;
 
 public class Main {
 
@@ -13,7 +13,7 @@ public class Main {
         pair.setA(1);
         System.out.println(pair.getA());
 
-        String s = "com.fanshe.Pair";
+        String s = "com.javaBase.fanshe.Pair";
         Pair pair1 = f(new Pair(),s);
         pair1.setA(2);
         System.out.println(pair1.getA());

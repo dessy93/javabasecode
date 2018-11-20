@@ -1,4 +1,4 @@
-package com.fanshe;
+package com.javaBase.fanshe;
 
 public class Pair {
 
