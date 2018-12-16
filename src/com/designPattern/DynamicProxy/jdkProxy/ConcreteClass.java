@@ -1,4 +1,4 @@
-package com.designPattern;
+package com.designPattern.DynamicProxy.jdkProxy;
 
 public class ConcreteClass implements TargetInterface {
 

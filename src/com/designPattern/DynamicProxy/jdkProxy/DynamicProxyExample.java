@@ -1,4 +1,4 @@
-package com.designPattern;
+package com.designPattern.DynamicProxy.jdkProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
