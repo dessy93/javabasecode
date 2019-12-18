@@ -1,4 +1,4 @@
-package main.java.com.leetCode.toutiao.Data;
+package com.leetCode.toutiao.Data;
 
 import java.util.*;
 import java.util.concurrent.ArrayBlockingQueue;
