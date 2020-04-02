@@ -1,4 +1,4 @@
-package main.java.com.leetCode.toutiao.List;
+package com.leetCode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
