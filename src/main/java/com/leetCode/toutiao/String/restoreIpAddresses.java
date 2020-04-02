@@ -35,7 +35,22 @@ public class restoreIpAddresses {
     }
 
     public static void main(String[] args) {
-        System.out.println(restoreIpAddresses("25525511135"));
+//
+//        List<String> a = new ArrayList<>();
+//        a.add("1");
+//        List<String> b = a;
+//        a.clear();
+//        System.out.println(b);
+        //System.out.println(restoreIpAddresses("25525511135"));
+//        BigDecimal backnum = new BigDecimal(1);
+//        BigDecimal totalnum = new BigDecimal(6);
+//        BigDecimal totalmoney = new BigDecimal(1800);
+//        System.out.println(backnum.divide(totalnum,4,BigDecimal.ROUND_HALF_UP).multiply(totalmoney).setScale(2,BigDecimal.ROUND_HALF_UP));
+List<String> s = new ArrayList<>();
+        List<String> s1 = new ArrayList<>();
+        s1.addAll(s);
+        System.out.println(s.size());
+
     }
 
 }
