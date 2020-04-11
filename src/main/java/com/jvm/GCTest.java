@@ -10,4 +10,5 @@ public class GCTest {
         allocation4 = new byte[1000*1024];
         allocation5 = new byte[1000*1024];
     }
+
 }
