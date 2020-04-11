@@ -11,6 +11,7 @@ public class preimageSizeFZF {
         return res;
     }
 
+
     public static void main(String[] args) {
         System.out.println(preimageSizeFZF(10000000));
     }
