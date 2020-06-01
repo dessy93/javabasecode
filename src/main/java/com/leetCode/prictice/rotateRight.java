@@ -25,7 +25,6 @@ public class rotateRight {
             tail = tail.next;
             length++;
         }
-
         tail.next = head;
         int index = (length - (k % length));
         tail = head;
